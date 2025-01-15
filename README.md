@@ -1,7 +1,7 @@
-Hi, here is Negin! ❄️
+Hi, here is Negin! ❄️<br/>
 
-👩🏻‍🎓 Computer Student at HHU 🇩🇪
-👩🏻‍💻 Currently working on my data analysis skills 📊
+👩🏻‍🎓 Computer Student at HHU 🇩🇪<br/>
+👩🏻‍💻 Currently working on my data analysis skills 📊<br/>
 
 
 📖
