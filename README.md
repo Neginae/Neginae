@@ -21,10 +21,10 @@ Hi, here is Negin! ❄️<br/>
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neginae&show_icons=true&theme=dark)<br/>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Neginae&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Neginae&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
